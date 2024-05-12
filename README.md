@@ -28,4 +28,4 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir um pull request 
 
 ## Contato
 
-Se você tiver alguma dúvida ou sugestão, entre em contato conosco pelo email dormenenem@example.com.
+Se você tiver alguma dúvida ou sugestão, entre em contato conosco pelo email maiaaraujo.milena@gmail.com.
