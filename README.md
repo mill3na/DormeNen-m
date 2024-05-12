@@ -10,6 +10,8 @@ Dorme Neném é uma ferramenta de inteligência artificial projetada para ajudar
 
 - **Interface Simples e Intuitiva:** A interface do usuário é projetada para ser fácil de usar, permitindo que os pais criem histórias rapidamente, mesmo quando estão com pouco tempo.
 
+- **Ajudando em Situações de Emergência:** Este projeto também pode ser útil em situações de emergência, como as enchentes no RS, onde pessoas estão em abrigos e as crianças precisam de distração e conforto.
+
 ## Como Usar
 
 1. Clone este repositório em sua máquina local.
@@ -28,4 +30,4 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir um pull request 
 
 ## Contato
 
-Se você tiver alguma dúvida ou sugestão, entre em contato conosco pelo email maiaaraujo.milena@gmail.com.
+Se você tiver alguma dúvida ou sugestão, entre em contato conosco pelo email dormenenem@projeto.com.
